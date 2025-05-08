@@ -16,4 +16,4 @@ All documents are timestamped and protected by copyright.
 - Süti-kezelési szabályzat
 - Projektfeltételek (együttműködési szabályok)
 
-** Minden dokumentum időbélyeggel ellátott és szerzői jog védi. **
+Minden dokumentum időbélyeggel ellátott és szerzői jog védi. 
